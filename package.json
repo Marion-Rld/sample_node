@@ -1,0 +1,27 @@
+{
+  "name": "sample_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node index.js",
+    "lint": "eslint ."
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Marion-Rld/sample_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marion-Rld/sample_node/issues"
+  },
+  "homepage": "https://github.com/Marion-Rld/sample_node#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
